@@ -16,5 +16,9 @@ O projeto consiste em uma fanpage dedicada ao time de basquete Boston Celtics. O
 * **Organização**: Estrutura de arquivos clara e código limpo.
 
 ## Como visualizar
-1. Clone o repositório: `git clone https://github.com/isjustjefferson/Boston-Celtics-Fan-Page.git`
-2. Abra o arquivo `index.html` em seu navegador.
+Você pode acessar por um repositório local:
+* Clone o repositório: `git clone https://github.com/isjustjefferson/Boston-Celtics-Fan-Page.git`
+* Abra o arquivo `index.html` em seu navegador.
+
+Ou então acessar o link do GitHub Pages:
+* https://isjustjefferson.github.io/Boston-Celtics-Fan-Page/
